@@ -75,9 +75,39 @@ body{
 }
 .pink-p{
 	position: absolute;
+	color: #fff;
+	top: 40px;
+	left: 78px;
 }
 .yellow-p{
-	font-size: 48px;
+	font-size: 50px;
 	text-align: center;
-	color: #fff;
+	color: #0033CC;
+	font-size: uppercase;
+}
+.text{
+	position: absolute;
+	top: 170px;
+	left: 635px;
+}
+.box1{
+	position: relative;
+}
+.foot-img{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+}
+.batistuta{
+	position: absolute;
+	top: 5%;
+	right: 2%;
+}
+.batigoli2{
+	position: relative;
+}
+.text-batistuta{
+	position: absolute;
+	top: 1%;
+	left: 0%;
 }
